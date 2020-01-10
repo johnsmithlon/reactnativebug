@@ -1,0 +1,22 @@
+
+> styled-components@4.4.1 postinstall C:\react\reactnativewinapp\node_modules\styled-components
+> node ./scripts/postinstall.js || exit 0
+
+Use styled-components at work? Consider supporting our development efforts at https://opencollective.com/styled-components
++ closest@0.0.1
++ pathfinding@0.4.18
++ @types/styled-components@4.4.2
++ @emotion/styled@10.0.27
++ resize-observer-polyfill@1.5.1
++ @emotion/core@10.0.27
++ paths-js@0.4.9
++ mathjs@6.0.3
++ styled-components@4.4.1
++ typescript@3.7.4
+added 63 packages from 224 contributors, removed 6 packages and audited 919062 packages in 49.538s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 18 vulnerabilities (17 low, 1 moderate)
+  run `npm audit fix` to fix them, or `npm audit` for details
