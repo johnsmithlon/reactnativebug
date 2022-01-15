@@ -31,7 +31,7 @@
     "react-test-renderer": "16.8.3",
     "resize-observer-polyfill": "^1.5.1",
     "rnpm-plugin-windows": "^0.4.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "styled-components": "^4.4.1",
     "typescript": "^3.7.4",
     "xml-parser": "^1.2.1"
